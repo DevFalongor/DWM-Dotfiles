@@ -19,3 +19,4 @@ nano blocks.h
 sudo make install
 
 blocks.h - тут настройка
+https://www.color-meanings.com/colors-that-go-with-black/
